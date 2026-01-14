@@ -1,0 +1,7 @@
+# Robots.txt for Khatulistiwa Air
+# Temporarily disallow all crawlers during development
+
+User-agent: *
+Disallow: /
+
+# Note: Remove this and restore Allow: / when ready for production
